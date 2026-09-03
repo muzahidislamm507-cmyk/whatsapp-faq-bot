@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-faq-bot",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp FAQ / customer support bot using Twilio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2",
+    "twilio": "^5.0.4",
+    "string-similarity": "^4.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
