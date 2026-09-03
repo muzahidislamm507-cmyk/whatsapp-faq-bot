@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are your business hours?",
+    "keywords": ["hours", "open", "time", "kokhon", "somoy"],
+    "answer": "We are open every day from 9 AM to 9 PM (Bangladesh time)."
+  },
+  {
+    "question": "How can I track my order?",
+    "keywords": ["track", "order status", "kothay", "delivery status"],
+    "answer": "You can track your order by sending your Order ID here, or visit our website's 'Track Order' page."
+  },
+  {
+    "question": "What is your return policy?",
+    "keywords": ["return", "refund", "exchange", "ferot"],
+    "answer": "You can return any product within 7 days of delivery if it is unused and in original packaging. Contact us with your Order ID to start a return."
+  },
+  {
+    "question": "How do I contact a human agent?",
+    "keywords": ["agent", "human", "manush", "talk to someone", "representative"],
+    "answer": "Sure! Please hold on, one of our team members will reply to you shortly during business hours (9 AM - 9 PM)."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "keywords": ["payment", "bkash", "nagad", "cash on delivery", "cod", "card"],
+    "answer": "We accept bKash, Nagad, Cash on Delivery, and major credit/debit cards."
+  }
+]
