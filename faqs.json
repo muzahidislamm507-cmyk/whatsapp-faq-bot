@@ -1,8 +1,7 @@
-[
-  {
-    "question": "What are your business hours?",
-    "keywords": ["hours", "open", "time", "kokhon", "somoy"],
-    "answer": "We are open every day from 9 AM to 9 PM (Bangladesh time)."
+[  {
+    "question": "How do I order?",
+    "keywords": ["order", "অর্ডার", "buy", "kinbo", "কিভাবে অর্ডার"],
+    "answer": "🖌️অর্ডার করতে এখনি\n🚥আপনার নামঃ\n📞ফোন নাম্বারঃ\n✏️জেলাঃ\n✏️থানাঃ\n🏠গ্রাম/ বাসা নং/ রোড নংঃ\nলিখে মেসেজ করুন\n\nআমাদের এখানে ডেলিভারি চার্জ ফ্রি.\nপ্রোডাক্ট সেম টু সেম না হলে রিটার্ন অপশন আছে.\nআপনি রিটার্ন করে দিতে পারবেন।\nডেলিভারি ম্যানke ডেলিভারি চার্জ পরিশোধ করবেন"
   },
   {
     "question": "How can I track my order?",
